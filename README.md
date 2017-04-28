@@ -2,7 +2,7 @@
 
 
 ## Brife Introduction
-EncSIM is an encrypted and scalable similarity search service for distributed data stores. The architecture of EncSIM enables parallel query processing over distributed, encrypted data records. To reduce user overhead, EncSIM resorts to a variant of the state-of-the-art similarity search algorithm, called all-pairs locality-sensitive hashing (LSH). We describe a novel encrypted index construction for EncSIM based on searchable encryption to guarantee the security of service while preserving performance benefits of all-pairs LSH.
+EncSIM is an encrypted and scalable similarity search service for distributed data stores. The architecture of EncSIM enables parallel query processing over distributed, encrypted data records. To reduce user overhead, EncSIM resorts to a variant of the state-of-the-art similarity search algorithm, called all-pairs locality-sensitive hashing (LSH). We describe a novel encrypted index construction for EncSIM based on searchable encryption to guarantee the security of service while preserving performance benefits of all-pairs LSH. Currently, the prototype of EncSIM is deployed at Redis. 
 
 ## Publication
 Xiaoning Liu, Xingliang Yuan, and Cong Wang, “EncSIM: An Encrypted Similarity Search Service for Distributed High-dimensional Datasets”, In the 25th IEEE/ACM International Symposium on Quality of Service (IWQoS’17).
