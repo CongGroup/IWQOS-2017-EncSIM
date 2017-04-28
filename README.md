@@ -12,6 +12,17 @@ Xiaoning Liu, Xingliang Yuan, and Cong Wang, “EncSIM: An Encrypted Similarity 
 - OpenCSV-3.9 https://sourceforge.net/projects/opencsv/
 - jedis-2.4.2 https://mvnrepository.com/artifact/redis.clients/jedis
 
+## Installation
+Redis installation:
+
+```
+ * wget http://download.redis.io/releases/redis-3.2.0.tar.gz
+ * tar zxvf redis-3.2.0.tar.gz
+ * cd redis-3.2.0
+ * make
+ * make install
+```
+
 ## Tweets dataset
 Sentiment140 Twitter Data http://help.sentiment140.com/for-students/
 
