@@ -11,6 +11,7 @@ Xiaoning Liu, Xingliang Yuan, and Cong Wang, “EncSIM: An Encrypted Similarity 
 - JDK-1.8
 - OpenCSV-3.9 https://sourceforge.net/projects/opencsv/
 - jedis-2.4.2 https://mvnrepository.com/artifact/redis.clients/jedis
+- Redis http://download.redis.io/releases/redis-3.2.0.tar.gz
 
 ## Installation
 Redis installation:
